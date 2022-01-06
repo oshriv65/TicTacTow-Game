@@ -1,2 +1,2 @@
 # TicTacTow-Game(java)
-redme will be updated soon
+readme will be updated soon
