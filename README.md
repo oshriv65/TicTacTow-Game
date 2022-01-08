@@ -37,7 +37,9 @@ Project is created with:
 ## Screenshots
 ![img1](./img/img1.png)
 > The boot process of the tournament.
+
 ![img2](./img/img2.png)
+
 > Example to process of game.
 
 ## Setup
