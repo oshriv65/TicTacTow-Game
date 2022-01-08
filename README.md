@@ -45,12 +45,9 @@ Project is created with:
 ![img2](./img/img2.png)
 
 ## Setup
-1. how to run the project here
-
-example of run code:
-```
-$ cd ../
-```
+1. First download all the folders(except img folder)
+2. open Tournament file in your java IDE
+3. Enjoy!
 
 ## Project Status
 The project is completed but no longer get updated, because it was part of a course i took, and i moved on in the course to expand my knowledge ⚡.
