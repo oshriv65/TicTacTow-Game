@@ -13,12 +13,13 @@
 * [Contact](#contact)
 
 ## General info
-- 
+- Points on the board need to be choose by row and column Coordinates. 
 	
 ## Technologies
 Project is created with:
-* java .
-* visual studio code.
+* visual studio code
+* java SE17
+* java utilities library - I used "scanner" object from that library to get input from the user.
 
 
 ## Features
@@ -45,7 +46,7 @@ $ cd ../
 ```
 
 ## Project Status
-The project is completed but no longer get updated, because it was part of a course i took, and i moved on in the course to expand my knowledge ⚡
+The project is completed but no longer get updated, because it was part of a course i took, and i moved on in the course to expand my knowledge ⚡.
 
 ### Known issues
 * The algorithm of Mrs.Clever compatible only for size 3X3 board, maybe in the future i will make her compatible to any board size and smarter.
