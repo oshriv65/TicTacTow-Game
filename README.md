@@ -22,7 +22,12 @@ Project is created with:
 
 
 ## Features
-- 
+- 3 options to play,
+  1. Play against a friend
+  2. Play against Mr.Whatever/Mrs.Clever(CPU)
+  3. Make the CPU play against himself(Mr.Whatever vs Mrs.Clever)
+- Mr.Whatever, a player(CPU) which just mark places on board randomly.
+- Mrs.Clever, a litte bit smarter than Mr.Whatever, she use a strategy to beat you.
 
 ## Screenshots
 ![Example screenshot](./img/?.png)
@@ -45,6 +50,5 @@ The project is completed but no longer get updated, because it was part of a cou
 I would want to thank CampusIL and the team behind the "Object oriented programing" course!
 > Link to the course home page [here](https://campus.gov.il/course/huji_acd_rfp4_huji_oop/)
 
-
 ## Contact
-Created by Oshri Agronov, feel free to contact me!
+Created by Oshri Agronov, feel free to contact me!:v:
