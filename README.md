@@ -26,8 +26,9 @@ Project is created with:
   1. Human player against another human player
   2. Human player against Mr.Whatever/Mrs.Clever(CPU)
   3. Make the CPU play against himself (Mr.Whatever vs Mrs.Clever)
-- CPU player Mr.Whatever, he just mark places on the board randomly.
-- CPU player Mrs.Clever, a litte bit smarter than Mr.Whatever, she use a strategy to beat you.
+  - CPU player Mr.Whatever, he just mark places on the board randomly.
+  - CPU player Mrs.Clever, a litte bit smarter than Mr.Whatever, she use a strategy to beat you.
+
 - You have 2 options on how to show the game on screen:
   1. Void print - it's just won't print anything on screen expcept the result of the tournament(it's save time if you put cpu player against cpu player).
   2. Console renderer - it's showing everything on screen without skiping.
