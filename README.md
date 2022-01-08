@@ -46,7 +46,7 @@ Project is created with:
 
 ## Setup
 1. First download all the folders(except img folder)
-2. open Tournament file in your java IDE
+2. Open Tournament.java file in your java IDE
 3. Enjoy!
 
 ## Project Status
