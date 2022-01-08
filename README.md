@@ -35,7 +35,10 @@ Project is created with:
   2. Console renderer - it's showing everything on screen without skiping.
 
 ## Screenshots
-![Example screenshot](./img/?.png)
+![img1](./img/img1.png)
+> The boot process of the tournament.
+![img2](./img/img2.png)
+> Example to process of game.
 
 ## Setup
 1. how to run the project here
