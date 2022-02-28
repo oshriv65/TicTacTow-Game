@@ -13,13 +13,14 @@
 * [Contact](#contact)
 
 ## General info
+- The board 3X3.
 - Points on the board need to be choose by row and column Coordinates. 
 	
 ## Technologies
 Project is created with:
 * visual studio code
 * java SE17
-* java utilities library - I used "scanner" object from that library to get input from the user.
+* java utilities library - "Scanner" object from that library to get input from the user.
 
 
 ## Features
