@@ -1,6 +1,6 @@
 # TicTacTow Game - Written in java
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-> The project is basically a Tic Tac Tow game with a very simple Ai🤖.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
+The project is a Tic Tac Tow game with a very simple Ai(CPU player)🤖.
 
 ## Table of contents
 * [General info](#general-info)
